@@ -1,0 +1,11 @@
+.form-input {
+  margin-bottom: 20px;
+}
+
+img {
+  transition: all 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.4);
+}
